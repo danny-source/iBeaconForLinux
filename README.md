@@ -3,7 +3,7 @@ iBeacon For Linux
 
 =============
 
-Using Bluetooth Smart Read Dongle and Linux to Broadcast iBeacon.
+Using Bluetooth Smart Ready Dongle and Linux to Broadcast iBeacon.
 i.e. Raspberry pi
 
 Usage:
